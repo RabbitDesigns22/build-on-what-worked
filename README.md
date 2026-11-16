@@ -20,7 +20,7 @@ This skill gives it:
 ## Install
 
 ```bash
-npx skills add RabbitDesigns22/build-on-what-worked
+npx skills@1.8.1 add https://github.com/RabbitDesigns22/build-on-what-worked/tree/a3d296a8c5fb4fd27f7de0f06de67dbcb3f1732e
 ```
 
 Or copy `skills/build-on-what-worked/` into `~/.claude/skills/`.
